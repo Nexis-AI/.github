@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Nexis-AI/branding-assets/refs/heads/main/Nexis%20banner.png" alt="Nexis AI Banner" width="100%" />
+</div>
 
-<img src="[https://nexis.network/logo.svg](https://raw.githubusercontent.com/Nexis-AI/branding-assets/refs/heads/main/Nexis%20banner.png)" width="400"/>
-
-# 🌐 **Nexis AI**
+<div align="center">
+# **Nexis AI**
 ### *Creating Safe DeFAI that Shapes the Future of Finance*
 
 [![Website](https://img.shields.io/badge/Website-nexis.network-blue?style=flat-square&logo=google-chrome)](https://nexis.network)
