@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Nexis-AI/branding-assets/refs/heads/main/Nexis%20banner.png" alt="Nexis AI Banner" width="100%" />
 </div>
 
-<div align="center">
 # **Nexis AI**
 ### *Creating Safe DeFAI that Shapes the Future of Finance*
 
