@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://nexis.network/logo.svg" width="120"/>
+<img src="[https://nexis.network/logo.svg](https://raw.githubusercontent.com/Nexis-AI/branding-assets/refs/heads/main/Nexis%20banner.png)" width="900"/>
 
 # 🌐 **Nexis AI**
 ### *Creating Safe DeFAI that Shapes the Future of Finance*
